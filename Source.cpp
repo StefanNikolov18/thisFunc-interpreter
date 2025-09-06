@@ -24,6 +24,7 @@ int main() {
 	//input line
 	std::string line{};
 	
+	
 	if (option::WANT_EXECUTE_FROM_FILE) {
 		if (!readFromFile(option::FILE_EXECUTABLE, def)) {
 			return -1;
