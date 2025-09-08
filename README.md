@@ -56,5 +56,5 @@ Clone the repository:
 
 ---
 
-## Extra
- 📖 Full documentation is available in `Documentation/html/index.html`.
+## 📖 Documentation
+Full documentation is available in `Documentation/html/index.html`.
