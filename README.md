@@ -1,6 +1,6 @@
-# ⚡ ThisFunc Interpreter
+# ThisFunc Interpreter
 
-## ℹ️ Overview
+## Overview
 This project implements an **interpreter** for the functional programming language **ThisFunc**.  
 The interpreter can run in **interactive mode** (REPL) or execute code from files, evaluating expressions and printing results.  
 
@@ -9,7 +9,7 @@ Used data structures: stack, linked list, hash table.
 
 ---
 
-## ✨ Language Features
+## Language Features
 - **Literals** → only real numbers  
 - **Expressions** → nested function calls  
 - **Built-in functions**:
@@ -28,7 +28,7 @@ Used data structures: stack, linked list, hash table.
 
 ---
 
-## 🛠 Examples
+## Examples
 ```text
 add(3, 7)
 > 10
@@ -50,11 +50,11 @@ fact(5)
 > 120
 ```
 ---
-## 🚀 Usage
+## Usage
 Clone the repository:
   `git clone https://github.com/StefanNikolov18/thisFunc-interpreter.git`  
 
 ---
 
-## 📖 Documentation
+## Documentation
 Full documentation is available in `Documentation/html/index.html`.
